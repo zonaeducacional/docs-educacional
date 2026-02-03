@@ -1,0 +1,27 @@
+# Sem Título
+
+> *Publicado em 06/01/2008*
+
+![Imagem](http://4.bp.blogspot.com/_nEw3iuKqmBg/STnxN1q9m8I/AAAAAAAAAMo/BPQrP6ohhm4/s320/Apresenta%C3%A7%C3%A3o1.jpg)
+
+A LUA E A ESTRELA
+
+NÃO CABEM NUM PONTO
+
+NEM ALFA
+
+NEM ÔMEGA
+
+APENAS O TEMPO
+
+COMO AS CARTAS DE UM BARALHO, 
+
+EMBARALHADO, 
+
+EMBARALHA TUDO 
+
+NUM PONTO 
+
+ENTRE A LUA E A ESTRELA.
+
+por Sérgio Araújo
