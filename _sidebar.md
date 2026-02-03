@@ -1,6 +1,5 @@
 - [Início](/)
-
-- Palavras (Blog)
+- [Palavras (Blog)](poemas/README.md)
   - **2016**
     - [Poema social (1)](poemas/poema-social-1.md)
     - [Poema Social (2)](poemas/poema-social-2.md)
