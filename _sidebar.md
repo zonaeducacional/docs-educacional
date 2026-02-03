@@ -1,7 +1,4 @@
 - [Início](/)
-- [Configuração](configuracao.md)
-- [Metodologias](metodologias.md)
-- [Recursos Externos](https://github.com/docsifyjs/docsify)
 
 - Palavras (Blog)
   - [#18](poemas/18.md)
